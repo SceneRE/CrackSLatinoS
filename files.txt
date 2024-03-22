@@ -1114,6 +1114,8 @@
 [676K]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1870-sequeyo PRIVAZER V4.0.81.rar
 [881K]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1871-_v3n0M-Activando PTZ Controller-.Net .rar
 [1.8M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1872-Unpacking BASS audio library PEtite 64 bits por Bakasura.rar
+[307K]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1873-Jugando con PilotEdit por Alberto Fernandez.rar
+[1.2M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1874-Jugando con PilotEdit por Alberto Fernandez (anexo).rar
 [ 12K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300
 [ 70K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300/201-CW-Crackme.KeyGenning.By.ShadowDark.Parte1.rar.rar
 [3.4K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300/202-tutescripts por KAOD.rar.rar
@@ -2966,4 +2968,4 @@
 [1.2M]  RUBY POR TINCOPASAN/Ruby desde 0 _inicio por tincopasan.rar.rar
 [930K]  RUBY POR TINCOPASAN/Ruby desde 0_mas_cadenas por tincopasan.rar.rar
 
-94 directories, 2873 files
+94 directories, 2875 files
