@@ -41,8 +41,7 @@ edit_uri: edit/main/docs/
 
 extra:
   analytics:
-    provider: google
-    property: G-7QV6P03LMC
+    provider: custom
     feedback:
       title: ¿Fue útil esta página?
       ratings:
