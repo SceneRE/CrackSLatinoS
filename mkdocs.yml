@@ -1,0 +1,89 @@
+site_name: CrackSLatinoS
+site_description: CrackSLatinoS es una comunidad de entusiastas de la ingeniería inversa fundada en el 2000 por Ricardo Narvaja. Nos dedicamos a enseñar, aprender y practicar este arte sin fines comerciales, fomentando un ambiente de colaboración y amistad. Únete a nosotros y descubre el apasionante mundo de la ingeniería inversa.
+strict: true
+site_url: https://crackslatinos.org/
+
+copyright: <a href="https://github.com/SceneRE/CrackSLatinoS/blob/main/LICENSE" target="_blank" rel="noopener">Sin derechos reservados / No rights reserved 2000 - 2024</a>
+
+theme:
+  name: material
+  language: es
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
+  icon:
+#    logo: simple/knowledgebase
+    repo: fontawesome/brands/github-alt
+  custom_dir: customs
+  palette:
+    scheme: slate
+    primary: amber
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - header.autohide
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.top
+    - navigation.tabs
+    - toc.follow
+    - toc.integrate
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+
+repo_name: SceneRE/CrackSLatinoS
+repo_url: https://github.com/SceneRE/CrackSLatinoS
+edit_uri: edit/main/docs/
+
+extra:
+  analytics:
+    provider: google
+    property: G-7QV6P03LMC
+    feedback:
+      title: ¿Fue útil esta página?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Esta página fue útil
+          data: 1
+          note: >-
+            ¡Gracias por sus comentarios!
+        - icon: material/emoticon-sad-outline
+          name: Esta página podría mejorarse
+          data: 0
+          note: >- 
+            ¡Gracias por tus comentarios! Ayúdanos a mejorar esta página <a href="https://github.com/SceneRE/CrackSLatinoS/discussions" target="_blank" rel="noopener">creando una discusión</a>.
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/crackslatinos
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jrwsENtyqn
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCPNPSP20z4FGfgMJ71VOJjw
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/crackslatinos
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - md_in_html
+
+plugins:
+  - tags:
+      tags_file: etiquetas.md
+  - search
+  - git-revision-date-localized:
+      enabled: !ENV [ENABLED_GIT_REVISION_DATE, True]
+      locale: es
+      type: date
+      enable_creation_date: true
+  - git-authors:
+      enabled: !ENV [ENABLED_GIT_REVISION_DATE, True]
+      show_contribution: true
+
+extra_css:
+  - stylesheets/extra.css
