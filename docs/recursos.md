@@ -1141,6 +1141,8 @@ Esta colección es un reflejo del esfuerzo colaborativo y el espíritu de compar
 [1.3M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1877-ItubeGO_NEW.rar
 [ 11M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1878-Hooking APIs con Script - Enigma Protector 6.80 por Neutrino.rar
 [519K]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1879-Crackme_03_karasu.zip
+[6.5M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1880-Tutorial modificando Duolingo apk by oxandy.rar
+[2.4M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1881-CrackmeKeyMeBySlayer- karasu.rar
 [ 12K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300
 [ 70K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300/201-CW-Crackme.KeyGenning.By.ShadowDark.Parte1.rar.rar
 [3.4K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300/202-tutescripts por KAOD.rar.rar
@@ -2992,5 +2994,5 @@ Esta colección es un reflejo del esfuerzo colaborativo y el espíritu de compar
 [1.2M]  RUBY POR TINCOPASAN/Ruby desde 0 _inicio por tincopasan.rar.rar
 [930K]  RUBY POR TINCOPASAN/Ruby desde 0_mas_cadenas por tincopasan.rar.rar
 
-94 directories, 2879 files
+94 directories, 2881 files
 ```
