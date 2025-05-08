@@ -333,7 +333,7 @@ Esta colección es un reflejo del esfuerzo colaborativo y el espíritu de compar
 [115K]  CURSO NUEVO/TEORIAS NUMERADAS/101-200/178-Como hallar el Punto H Facilmente by RedH@wK.rar.rar
 [260K]  CURSO NUEVO/TEORIAS NUMERADAS/101-200/179- 2do tute de CRACKSLATINOS sobre el crackme imposible en olly de marmota.rar.rar
 [ 37K]  CURSO NUEVO/TEORIAS NUMERADAS/101-200/180-Mas metodos para hallar el Punto H facilmente Addendum-Morales.rar.rar
-[10.0K]  CURSO NUEVO/TEORIAS NUMERADAS/101-200/181-Primera aproximacion a las ips virtuales del hispano Por Marmota.rar.rar
+[ 10K]  CURSO NUEVO/TEORIAS NUMERADAS/101-200/181-Primera aproximacion a las ips virtuales del hispano Por Marmota.rar.rar
 [7.5K]  CURSO NUEVO/TEORIAS NUMERADAS/101-200/182-IP's virtuales del Hispano - Aproximacion desde C por Marmota.rar.rar
 [ 20K]  CURSO NUEVO/TEORIAS NUMERADAS/101-200/183-INLINE PATCHING SOBRE VISUAL PROTECTpor MR GANDALF.rar.rar
 [ 22K]  CURSO NUEVO/TEORIAS NUMERADAS/101-200/184-Windows Lotto Pro 2003 6.05 Desempacando Shrinker 3.4.rar.rar
@@ -712,7 +712,7 @@ Esta colección es un reflejo del esfuerzo colaborativo y el espíritu de compar
 [361K]  CURSO NUEVO/TEORIAS NUMERADAS/1401-1500/1453-Unpacking Malware, Dynamic Forking por Nox.pdf.rar
 [108K]  CURSO NUEVO/TEORIAS NUMERADAS/1401-1500/1454-Analisis Malware - [ACAD - Medre] - Parte 1 por Cesar Neira John Vargars y Nox.pdf.rar
 [2.3M]  CURSO NUEVO/TEORIAS NUMERADAS/1401-1500/1455-Analisis Malware - [ACAD - Medre] - Parte 2 por Cesar Neira John Vargars y Nox.pdf.rar
-[10.0K]  CURSO NUEVO/TEORIAS NUMERADAS/1401-1500/1456-InvestigandoAudioUnitsOSx_by_Sylkat.rar
+[ 10K]  CURSO NUEVO/TEORIAS NUMERADAS/1401-1500/1456-InvestigandoAudioUnitsOSx_by_Sylkat.rar
 [ 58K]  CURSO NUEVO/TEORIAS NUMERADAS/1401-1500/1457-Matar al Padre Rapido en Armadillo by Ivinson.rar
 [314K]  CURSO NUEVO/TEORIAS NUMERADAS/1401-1500/1458-qk smtp server3 desempacado de aspack 2.12 por Alberto Fernandez.rar
 [471K]  CURSO NUEVO/TEORIAS NUMERADAS/1401-1500/1459-Registrando qk smtp server3  por Alberto Fernandez.rar
@@ -1143,6 +1143,17 @@ Esta colección es un reflejo del esfuerzo colaborativo y el espíritu de compar
 [519K]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1879-Crackme_03_karasu.zip
 [6.5M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1880-Tutorial modificando Duolingo apk by oxandy.rar
 [2.4M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1881-CrackmeKeyMeBySlayer- karasu.rar
+[1.1M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1882-Cazando seriales en VB por Neutrino.rar
+[ 45M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1883-Modificando APK.rar
+[2.3M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1884-Total_Comander_64_bit.rar
+[2.0M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1885-Cazando seriales en VB por Neutrino(Parte2).rar
+[7.8M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1886-smokefx_by QwErTy.rar
+[4.1M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1887-Gizmo_crackme.rar
+[1.3M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1888-DLL Proxying al CrackMe v1.0 de Cruehead por EdSon.rar
+[532K]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1889-Trojan Remover-Extender trial por sequeyo.rar
+[2.5M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1890-Novena_Puerta.zip
+[1.6M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1891-Hijacking de DLL por orden de busqueda - Por Neutrino.rar
+[694K]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1892-Tutorial Del Crackme Tr4ceflow Por Flamer.zip
 [ 12K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300
 [ 70K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300/201-CW-Crackme.KeyGenning.By.ShadowDark.Parte1.rar.rar
 [3.4K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300/202-tutescripts por KAOD.rar.rar
@@ -2268,7 +2279,7 @@ Esta colección es un reflejo del esfuerzo colaborativo y el espíritu de compar
 [2.4M]  INTRODUCCION AL CRACKING CON XDBG POR ANGEL ZARZA/5- Instrucciones matemáticas.rar.rar
 [   0]  _MASSIVE_DOWNLOADS_WILL_BAN_YOU  [error opening dir]
 [4.0K]  OTROS
-[ 12K]  OTROS/AKIRA TODO
+[4.0K]  OTROS/AKIRA TODO
 [101K]  OTROS/AKIRA TODO/10. Estudio completo del empaquetador Asprotect 1.23.rar.rar
 [193K]  OTROS/AKIRA TODO/11. Estudio completo de las aplicaciones Windows.rar.rar
 [164K]  OTROS/AKIRA TODO/12. Estudio completo del empaquetador Ezip 1.0.rar.rar
@@ -2994,5 +3005,5 @@ Esta colección es un reflejo del esfuerzo colaborativo y el espíritu de compar
 [1.2M]  RUBY POR TINCOPASAN/Ruby desde 0 _inicio por tincopasan.rar.rar
 [930K]  RUBY POR TINCOPASAN/Ruby desde 0_mas_cadenas por tincopasan.rar.rar
 
-94 directories, 2881 files
+94 directories, 2892 files
 ```
