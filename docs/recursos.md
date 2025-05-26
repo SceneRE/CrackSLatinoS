@@ -1154,6 +1154,9 @@ Esta colección es un reflejo del esfuerzo colaborativo y el espíritu de compar
 [2.5M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1890-Novena_Puerta.zip
 [1.6M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1891-Hijacking de DLL por orden de busqueda - Por Neutrino.rar
 [694K]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1892-Tutorial Del Crackme Tr4ceflow Por Flamer.zip
+[1.1M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1893-Cracking RSCONCAR 14.22 SQL VB P-CODE by IvinsonCLS.rar
+[2.6M]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1894-Estructura TLS y Llamadas de Retorno - Por Neutrino.rar
+[438K]  CURSO NUEVO/TEORIAS NUMERADAS/1801-1900/1895-Cracking RSCONCAR 14.29 SQL 2025 VB P-CODE by IvinsonCLS.rar
 [ 12K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300
 [ 70K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300/201-CW-Crackme.KeyGenning.By.ShadowDark.Parte1.rar.rar
 [3.4K]  CURSO NUEVO/TEORIAS NUMERADAS/201-300/202-tutescripts por KAOD.rar.rar
@@ -3005,5 +3008,5 @@ Esta colección es un reflejo del esfuerzo colaborativo y el espíritu de compar
 [1.2M]  RUBY POR TINCOPASAN/Ruby desde 0 _inicio por tincopasan.rar.rar
 [930K]  RUBY POR TINCOPASAN/Ruby desde 0_mas_cadenas por tincopasan.rar.rar
 
-94 directories, 2892 files
+94 directories, 2895 files
 ```
